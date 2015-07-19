@@ -4,6 +4,7 @@ body
 	background-image: url("http://icons.wunderground.com/webcamramdisk/c/h/chyneuze/2/current.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-size: contain; 
 }
 
 nav
