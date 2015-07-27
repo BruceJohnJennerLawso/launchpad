@@ -1,5 +1,10 @@
 html
-{	background-size: contain; 
+{	
+
+	background-size: cover; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 }
 
 body 
@@ -8,6 +13,12 @@ body
 	background-image: url("http://icons.wunderground.com/webcamramdisk/c/h/chyneuze/2/current.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+
+	background-size: cover; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+
 }
 
 nav
