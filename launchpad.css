@@ -10,7 +10,7 @@ html
 body 
 {	
 	padding-top: 50px;
-	background-image: url("http://icons.wunderground.com/webcamramdisk/c/h/chyneuze/2/current.jpg");
+	background-image: url("http://webcam.willingen.de/webcam/eissporthalle.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 
@@ -19,6 +19,11 @@ body
 	-moz-background-size: cover;
 	-o-background-size: cover;
 
+}
+
+.content
+{
+	background-color: white;
 }
 
 nav
